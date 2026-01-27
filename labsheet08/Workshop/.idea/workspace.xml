@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8c00f0f7-0d5a-43d9-a73d-e7a211f265bb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../labsheet02/LabSheet02/src/ex201.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../labsheet02/LabSheet02/src/ex201.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../labsheet02/LabSheet02/src/ex202.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../labsheet02/LabSheet02/src/ex202.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../labsheet02/LabSheet02/src/ex203.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../labsheet02/LabSheet02/src/ex203.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../labsheet03/untitled/src/Lab305.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../labsheet03/untitled/src/Lab401.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../labsheet03/untitled/src/Lab401.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../labsheet03/untitled/src/Quiz101_2513510079.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../labsheet03/untitled/src/Quiz101_2513510079.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../labsheet03/untitled/src/ex301.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../labsheet03/untitled/src/ex301.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../labsheet03/untitled/src/ex302.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../labsheet03/untitled/src/ex302.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../labsheet03/untitled/src/ex303.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../labsheet03/untitled/src/ex303.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../labsheet03/untitled/src/ex304.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../labsheet03/untitled/src/ex304.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../labsheet04/labsheet05/src/Lab504.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../labsheet04/labsheet05/src/Lab504.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../labsheet04/labsheet05/src/Lab506.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../labsheet04/labsheet05/src/Lab506.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../labsheet04/labsheet05/src/LabSheet502.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../labsheet04/labsheet05/src/LabSheet502.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../labsheet06/Lab602/src/lab602.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../labsheet06/Lab602/src/lab602.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../labsheet06/Lab602/src/labsheet604.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../labsheet06/Lab602/src/labsheet604.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../labsheet07/Labsheet07/src/product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../labsheet07/Labsheet07/src/product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../labsheet07/Labsheet07/src/product_main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../labsheet07/Labsheet07/src/product_main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../labsheet07/Labsheet07/src/product_main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../labsheet07/Labsheet07/src/product_main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../labsheet07/Labsheet07/src/product_main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../labsheet07/Labsheet07/src/product_main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../labsheet07/Labsheet07/src/product_main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../labsheet07/Labsheet07/src/product_main4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../labsheet07/ex701/src/student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../labsheet07/ex701/src/student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../labsheet07/ex701/src/student_main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../labsheet07/ex701/src/student_main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../labsheet07/ex701/src/student_main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../labsheet07/ex701/src/student_main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labsheet801/src/BookInventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Labsheet801/src/BookInventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labsheet801/src/Borrowbooktest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Labsheet801/src/Borrowbooktest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labsheet801/src/Returnbooktest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Labsheet801/src/Returnbooktest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labsheet801/src/book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Labsheet801/src/book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Workshop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FirstWindowForm.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FirstWindowForm.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="38pMvmtzos48MjqtSFhRvbG9Djz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.FirstWindowForm.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c00f0f7-0d5a-43d9-a73d-e7a211f265bb" name="Changes" comment="" />
+      <created>1769492292456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769492292456</updated>
+    </task>
+    <servers />
+  </component>
+</project>
