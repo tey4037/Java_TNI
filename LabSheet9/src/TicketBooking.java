@@ -15,5 +15,8 @@ public class TicketBooking {
             JOptionPane.showMessageDialog(null, ticket.bookTicket());
         }
         JOptionPane.showMessageDialog(null, ticket.toString());
+
     }
+
 }
+
