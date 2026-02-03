@@ -6,13 +6,14 @@ public class Cakeorder{
 
         System.out.println("Birthday cake's Details");
 
-        System.out.println("Enter a message on cake : ");
+        System.out.print("Enter a message on cake : ");
         String message = scanner.nextLine();
-        System.out.println("Enter flavor : ");
+        System.out.print("Enter flavor : ");
         String flavor = scanner.next();
-        System.out.println("How many pound : ");
+        System.out.print("How many pound : ");
         double pound = scanner.nextDouble();
 
+        System.out.println("");
         Birthdaycake order1 = new Birthdaycake(message,pound,flavor,350);
         System.out.println(order1);
 
@@ -20,11 +21,13 @@ public class Cakeorder{
 
         System.out.println("Cupcake's Details");
 
-        System.out.println("Enter a message on cake : ");
+        System.out.print("Enter a message on cupcake : ");
         String cupcake_messages = scanner.nextLine();
-        System.out.println("Enter flavor : ");
+
+        System.out.print("Enter flavor : ");
         String cupcake_flavors = scanner.next();
-        System.out.println("How many piece : ");
+
+        System.out.print("How many piece : ");
         int piece = scanner.nextInt();
 
         cupcake order2 =new cupcake(piece,flavor,65);
@@ -35,9 +38,9 @@ public class Cakeorder{
         System.out.println("");
 
         System.out.println("Wings detail");
-        System.out.println("Enter Spicy level : ");
+        System.out.print("Enter Spicy level : ");
         String spicy_level = scanner.next();
-        System.out.println("How many wings : ");
+        System.out.print("How many wings : ");
         int wings = scanner.nextInt();
 
         chicken od1 = new chicken(wings,10,spicy_level);
