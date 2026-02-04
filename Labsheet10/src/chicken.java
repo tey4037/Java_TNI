@@ -1,48 +1,48 @@
 public class chicken extends Bakery {
     private int wings;
     private String spicy_level;
-    private int price;
 
-    public chicken(int wings,int price ,String spicy_level){
-        spicy_level();
+    public chicken(int wings ,String spicy_level ,String flavor, double unitprice){
+        super(flavor,unitprice);
         this.wings = wings;
-        this.price = price;
         this.spicy_level = spicy_level;
+        spicy_level();
     }
 
-    public String spicy_level(){
-        if (spicy_level == "1"){
-            return "level1";
-        } else if (spicy_level == "2") {
-            return "level2";
-        } else if (spicy_level == "3") {
-            return "level3";
-        }else
-            return "level1";
+    public void spicy_level(){
+        if (spicy_level.equals("1")){
+            this.spicy_level = "Mild Spicy";
+        } else if (spicy_level.equals("2")) {
+            this.spicy_level = "Normal Spicy";
+        } else if (spicy_level.equals("3")) {
+            this.spicy_level = "Extra Spicy";
+        } else {
+            this.spicy_level = "Mild Spicy";
+        }
     }
 
-    public String getSpicy_level(){
-        return this.spicy_level;
+    public boolean isPackingBox(){
+        return this.wings >=6;
     }
 
-    public int getWings(){
-        return this.wings;
+    public int getBagnumber(){
+        return this.wings % 6;
     }
 
     @Override
     public int getPackingcost(){
-        if (getWings() > 3)
-            return 0;
-        return super.getPackingcost();
+        if (isPackingBox()){
+            return getBagnumber() * super.getPackingcost();
+        }
+        return 0;
     }
 
-    public int totalprice(){
-        return wings * price;
+    @Override
+    public double calculatetotalprice(){
+        return (getUnitprice() *this.wings) + getPackingcost() + (getBagnumber() * 0.5);
     }
+
     public String toString(){
-        if (getWings() > 3){
-            return "You get free packing cost " + " Price : " +  totalprice() + " Spicy Level : " + getSpicy_level() + " Wings : " + getWings();
-        }
-        return "Price : " +  totalprice() + " Spicy Level : " + getSpicy_level() + " Wings : " + getWings();
+        return super.toString() + "\nChicken wing ( Flavor : " + getFlavor() + ") with " + getBagnumber() + " Bag " + "\nTotal price Wings = " + calculatetotalprice();
     }
 }
