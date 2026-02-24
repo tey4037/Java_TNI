@@ -25,7 +25,7 @@ public abstract class drink implements priceable {
             return 0;
         } else if (size.equals("M") || size.equals("m")) {
             return 10;
-        } else if (size.equals("L") || size.equals("L")) {
+        } else if (size.equals("L") || size.equals("l")) {
             return 15;
         }else return -1;
     }
